@@ -1,0 +1,203 @@
+.border1{
+    border: 300px solid #454545;
+    width: 300px;
+    position: absolute;
+    top: 180px;
+    right: 200px;
+}
+.border2{
+    border: 60px solid lightslategray;
+    width: 780px;
+    position: absolute;
+    top: 585px;
+    right:200px;
+}
+.border3{
+    border: 40px solid gray;
+    width: 70px;
+    position: absolute;
+    top: 600px;
+    right: 900px;
+}
+.border4{
+    border: 40px solid gray;
+    width: 70px;
+    position: absolute;
+    top: 600px;
+    right: 600px;
+}
+.border5{
+    border: 40px solid gray;
+    width: 70px;
+    position: absolute;
+    top: 600px;
+    right: 300px;
+}
+.border6{
+    border: 300px solid #353535;
+    width: 700px;
+    position: absolute;
+    top: 707px;
+    right: 0px;
+}
+.borderradius{
+    background-color: gray;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 300px;
+    right: 500px;
+}
+
+
+nav{
+    position: absolute;
+    top: 200px;
+    right: 480px;
+}
+ul li {
+    display: inline;
+    padding: 20px;
+}
+ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: whitesmoke;
+    text-decoration: none;
+}
+ul li a:hover{
+    color: aquamarine;
+}
+
+body{
+    background-color: gray;
+}
+.text1{
+   font-size: xx-large;
+   font-family: Arial, Helvetica, sans-serif;
+   color: whitesmoke;
+   position: absolute;
+   top: 5px;
+   right: 800px;
+}
+.text2{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    position: absolute;
+    top: 5px;
+    right: 500px;
+ }
+ .text3{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 5px;
+    right: 300px;
+ }
+ .text4{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 270px;
+    right: 1000px;
+ }
+ .text5{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 330px;
+    right: 850px;
+ }
+ .text6{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 280px;
+    right: 400px;
+ }
+ .text7{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 730px;
+    right: 760px;
+ }
+ .text8{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 800px;
+    right: 870px;
+ }
+ .text9{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 770px;
+    right: 150px;
+ }
+ .text10{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 900px;
+    right: 70px;
+ }
+ .image1{
+    position: absolute;
+    top: 250px;
+    right: 520px;
+ }
+ .image2{
+    position: absolute;
+    top: 590px;
+    right: 930px;
+ }
+ .image3{
+    position: absolute;
+    top: 590px;
+    right: 620px;
+ }
+ .image4{
+    position: absolute;
+    top: 590px;
+    right: 270px;
+ }
+ .image5{
+    position: absolute;
+    top: 750px;
+    right: 300px;
+ }
+ .image6{
+    position: absolute;
+    top: 900px;
+    right: 300px;
+ }
+ .paragraph1{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    width: 200px;
+    position: absolute;
+    top: 430px;
+    right: 800px;
+ }
+ .paragraph2{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    width: 200px;
+    position: absolute;
+    top: 380px;
+    right: 280px;
+ }
